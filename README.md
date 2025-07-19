@@ -8,7 +8,8 @@ A web application to **evaluate the quality of LLM (Large Language Model) respon
 
 This project uses **FastAPI**, **LangChain**, **Pydantic**,**Streamlit** for UI and **OpenAI GPT models** to analyze how accurately and logically an LLM's response matches a user query and a reference answer.
 
-![Screenshot](https://github.com/kamranajazshah/LLM_Evaluation_APP/Screenshot 2025-07-19 205800.png)
+![LLM Evaluation Screenshot](https://github.com/kamranajazshah/LLM_Evaluation_APP/blob/main/Screenshot%202025-07-19%20205800.png?raw=true)
+
 
 ---
 
